@@ -19,7 +19,7 @@ By usnig the availabe information a table schema for each of the six CSV files w
 
 > Note: to import each CSV file into the corresponding SQL table the order strictly should be followed to avoid errors.
 
-## 2. Data Analysis
+## 3. Data Analysis
 
 1.List the employee number, last name, first name, sex, and salary of each employee.
 
