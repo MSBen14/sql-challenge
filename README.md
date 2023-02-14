@@ -6,5 +6,5 @@ This repository discusses a research project on the human resources data base at
 
 For this project,  tables are deisgned to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, perform data modeling, data engineering, and data analysis, respectively.
 
-# 1. Data Modeling
+### 1. Data Modeling
 
